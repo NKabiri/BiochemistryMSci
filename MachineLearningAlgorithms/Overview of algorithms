@@ -6,3 +6,4 @@ Transferlearningsystem.ipynb contains system 3
   -This is trained using nuclear gene data, specifically 3' and 5' UTR sequence information
   -It uses this to then predict chloroplast gene expression in tertiles
 
+The DNA processing is based on the work of krishnaik06, at https://github.com/krishnaik06/DNA-Sequencing-Classifier/
