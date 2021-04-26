@@ -1,0 +1,8 @@
+MScialgaeML.ipynb contains systems 1 and 2
+  -System 1 predic predicts tertile of chloroplast gene expression using UTR sequence as an input
+  -System 2 uses 3' UTR length and secondary structure minimum free energy to make the same prediction
+ 
+Transferlearningsystem.ipynb contains system 3
+  -This is trained using nuclear gene data, specifically 3' and 5' UTR sequence information
+  -It uses this to then predict chloroplast gene expression in tertiles
+
